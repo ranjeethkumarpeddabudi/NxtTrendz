@@ -1,0 +1,24 @@
+.cart-summary-container {
+  align-self: flex-end;
+}
+
+.large {
+  display: none;
+}
+.total-label {
+  color: #616e7c;
+  font-size: 25px;
+  font-family: 'roboto';
+}
+.total-value {
+  color: #171f46;
+  font-family: 'roboto';
+}
+.checkout-button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: #0b69ff;
+  height: 30px;
+  color: #ffffff;
+}
